@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "8f4e4d6b-847c-1d55-f026-d4409ba2881e",
+  "instructors": {
+    "content": [
+      "958bc8cc-5744-f2d8-26a7-d083922b71d4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "72f99811-7441-4b51-f00b-09869b643968",
+    "website": "24-263-the-nature-of-creativity-fall-2005"
+  },
+  "course_title": "The Nature of Creativity",
+  "course_description": "This course is an introduction to problems about creativity as it pervades human experience and behavior. Questions about imagination and innovation are studied in relation to the history of philosophy as well as more recent work in philosophy, affective psychology, cognitive studies, and art theory. Readings and guidance are aligned with the student's focus of interest.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.263",
+  "course_image_thumbnail": {
+    "content": "7dd199cd-4547-9bbc-d248-3ef5311a588a",
+    "website": "24-263-the-nature-of-creativity-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f0937e73-e547-49d8-bba7-76af69761fac",
+  "site_short_id": "24.263-fall-2005",
+  "title": "Course Metadata"
+}
